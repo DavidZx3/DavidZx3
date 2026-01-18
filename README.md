@@ -1,11 +1,11 @@
-<!--Banner-->
 ![Kiran1689 Banner Image](https://github.com/DavidZx3/DavidZx3/blob/main/bannerDavidZX3.png)
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 <!--Header Name-->
- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/># ɪ'ᴍ David! 
+<h1><b>ɪ'ᴍ David!</b> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+
 *(Desarrollador / Programador)*
 <br />
 <!--Start Intro-->               
@@ -29,5 +29,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
 </p>
 <br />
-
-</p>
