@@ -1,4 +1,4 @@
-![Kiran1689 Banner Image](https://github.com/DavidZx3/DavidZx3/blob/main/bannerDavidZX3.png)
+![Banner](bannerDavidZX3.png)
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
